@@ -37,6 +37,3 @@ Python Script → SQL Server → Power BI → Real-Time Dashboard
 2. Load data into SQL Server
 3. Connect Power BI to SQL Server
 4. Enable auto-refresh
-
-## Screenshots
-
