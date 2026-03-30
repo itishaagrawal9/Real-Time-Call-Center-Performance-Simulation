@@ -1,10 +1,11 @@
 # Real-Time Call Center Performance Simulation Dashboard 
 End-to-end call center analytics project simulating real-time operations with Python automation, SQL Server data pipeline, and Power BI dashboards for performance monitoring and insights.
 
-![image_alt](https://github.com/itishaagrawal9/Real-Time-Call-Center-Performance-Simulation/blob/60b619f9adb89ae1f66d63359f591cedd8aa506f/Dashboard_Call%20Center_Simulation.png?raw=true)
-
 ## Overview 
 This project simulates a real-world call center environment by generating live call data using Python and visualizing it through an interactive Power BI dashboard.
+
+
+![image_alt](https://github.com/itishaagrawal9/Real-Time-Call-Center-Performance-Simulation/blob/60b619f9adb89ae1f66d63359f591cedd8aa506f/Dashboard_Call%20Center_Simulation.png?raw=true)
 
 ## Tech Stack 
 * Python (Data Simulation)
